@@ -1,0 +1,229 @@
+id,name,level,category
+1,Active Listening Enhancement,1,OverallGoal
+2,Help Students Improve Attention,2,Framework
+3,Contextual Introduction,3,TeacherActivity
+4,Why: If stories or videos are used, then students’ attention and interest are quickly captured.,4,Rationale
+5,Attention ..to..: Align content with objectives, limit to 2-3 minutes.,4,Consideration
+6,Specific Activities,4,ActivityGroup
+7,Story,5,ActivityItem
+8,Song,5,ActivityItem
+9,Video,5,ActivityItem
+10,Pose Questions,5,ActivityItem
+11,Use Vivid Verbal Language,3,TeacherActivity
+12,Why: If vivid language and varied intonation are used, then students listen more attentively.,4,Rationale
+13,Attention ..to..: Use natural intonation, ensure clear instructions.,4,Consideration
+14,Specific Activities,4,ActivityGroup
+15,Teacher’s language is engaging with varied intonation,5,ActivityItem
+16,Use exclamatory sentences frequently, e.g., Wow!/Look at this!,5,ActivityItem
+17,Teacher’s instructions are simple and clear,5,ActivityItem
+18,Teacher’s Body Language,3,TeacherActivity
+19,Why: If gestures or eye contact are used, then students’ attention is rekindled.,4,Rationale
+20,Attention ..to..: Use moderate gestures, maintain positive attitude.,4,Consideration
+21,Specific Activities,4,ActivityGroup
+22,Eye contact signals,5,ActivityItem
+23,Nodding, clapping (to show attention),5,ActivityItem
+24,Patting students’ shoulders as a reminder,5,ActivityItem
+25,Conduct Game Activities,3,TeacherActivity
+26,Why: If games are fun and competitive, then students listen attentively to rules.,4,Rationale
+27,Attention ..to..: Use simple rules, limit to 5-10 minutes, ensure participation.,4,Consideration
+28,Specific Activities,4,ActivityGroup
+29,Word games (e.g., train game, hide-and-seek with words),5,ActivityItem
+30,Quick-response challenge games,5,ActivityItem
+31,Online related games,5,ActivityItem
+32,Timed Task Challenges,3,TeacherActivity
+33,Why: If tasks have time limits, then students focus and listen to instructions.,4,Rationale
+34,Attention ..to..: Set reasonable time, match task difficulty to ability.,4,Consideration
+35,Specific Activities,4,ActivityGroup
+36,Specify the time for each task,5,ActivityItem
+37,Assign more short-duration tasks,5,ActivityItem
+38,Varied formats (individual, pair, group),5,ActivityItem
+39,Organize Varied Fun Reading Activities,3,TeacherActivity
+40,Why: If role-playing or group reading is used, then students listen attentively to prepare.,4,Rationale
+41,Attention ..to..: Use structured formats, demonstrate intonation.,4,Consideration
+42,Specific Activities,4,ActivityGroup
+43,Students role-play reading,5,ActivityItem
+44,Group competitive reading,5,ActivityItem
+45,Read with different emotions,5,ActivityItem
+46,Conduct Audiovisual Activities,3,TeacherActivity
+47,Why: If videos or picture books are used, then students’ attention is attracted.,4,Rationale
+48,Attention ..to..: Use lesson-related materials, guide focus.,4,Consideration
+49,Specific Activities,4,ActivityGroup
+50,Watch videos/photos (lesson-related),5,ActivityItem
+51,Listen to music (lesson-related),5,ActivityItem
+52,Read picture books (lesson-related),5,ActivityItem
+53,Have students observe objects (lesson elements),5,ActivityItem
+54,Organize Competitive Activities,3,TeacherActivity
+55,Why: If quizzes are goal-driven, then students listen to questions attentively.,4,Rationale
+56,Attention ..to..: Use tiered questions, ensure fair rewards.,4,Consideration
+57,Specific Activities,4,ActivityGroup
+58,Lesson content knowledge quiz,5,ActivityItem
+59,Unit review competition,5,ActivityItem
+60,Extracurricular knowledge competition,5,ActivityItem
+61,Encourage Student Movement,3,TeacherActivity
+62,Why: If movement is encouraged, then students’ attention is rekindled.,4,Rationale
+63,Attention ..to..: Keep activities orderly, limit to 10 minutes.,4,Consideration
+64,Specific Activities,4,ActivityGroup
+65,Stand and read in different postures,5,ActivityItem
+66,Whole class moves to find partners (form teams),5,ActivityItem
+67,Sing to express,5,ActivityItem
+68,Dance/body performance,5,ActivityItem
+69,Encourage Research Activities,3,TeacherActivity
+70,Why: If research tasks are assigned, then students listen to requirements attentively.,4,Rationale
+71,Attention ..to..: Use specific tasks, teach tool usage.,4,Consideration
+72,Specific Activities,4,ActivityGroup
+73,Look up dictionary to note word meanings,5,ActivityItem
+74,Research cultural knowledge,5,ActivityItem
+75,Research lesson-related background,5,ActivityItem
+76,Help Students Improve Comprehension,2,Framework
+77,Guide Students to Identify Key Points,3,TeacherActivity
+78,Why: If key words or questions are used, then students comprehend lesson core.,4,Rationale
+79,Attention ..to..: Use clear content, provide feedback.,4,Consideration
+80,Specific Activities,4,ActivityGroup
+81,Key words/sentences,5,ActivityItem
+82,Find differences,5,ActivityItem
+83,Fill out knowledge lists (K-W-L charts),5,ActivityItem
+84,Progressive questioning,5,ActivityItem
+85,Connect to Real-Life Experiences,3,TeacherActivity
+86,Why: If real-life links are made, then students deepen comprehension.,4,Rationale
+87,Attention ..to..: Control sharing time, ensure safe environment.,4,Consideration
+88,Specific Activities,4,ActivityGroup
+89,Share insights/experiences related to real life,5,ActivityItem
+90,Tell stories related to life,5,ActivityItem
+91,Simulate real-life scenarios,5,ActivityItem
+92,Create Contextual Scenarios,3,TeacherActivity
+93,Why: If scenarios are created, then students enhance comprehension.,4,Rationale
+94,Attention ..to..: Align with cognitive levels, provide examples.,4,Consideration
+95,Specific Activities,4,ActivityGroup
+96,Perspective-taking: Imagine the emotions of a character in the text,5,ActivityItem
+97,Create an ‘invitation letter’,5,ActivityItem
+98,Use Images/Videos to Support Academic Activities,3,TeacherActivity
+99,Why: If images or videos are used, then students comprehend via visuals.,4,Rationale
+100,Attention ..to..: Use relevant materials, guide discussion.,4,Consideration
+101,Specific Activities,4,ActivityGroup
+102,Imagine scenes from pictures, recognize words from pictures,5,ActivityItem
+103,Use mind maps,5,ActivityItem
+104,Differentiate through comics,5,ActivityItem
+105,Observe object shapes, smells, etc.,5,ActivityItem
+106,Help Students Respond Better,2,Framework
+107,Guide Oral Expression,3,TeacherActivity
+108,Why: If storytelling is used, then students listen to prepare responses.,4,Rationale
+109,Attention ..to..: Use specific tasks, encourage shy students.,4,Consideration
+110,Specific Activities,4,ActivityGroup
+111,Tell stories: Pair or group storytelling,5,ActivityItem
+112,Sentence-making,5,ActivityItem
+113,Retell using given keywords,5,ActivityItem
+114,Conduct Writing Activities,3,TeacherActivity
+115,Why: If writing tasks are assigned, then students listen to transform content.,4,Rationale
+116,Attention ..to..: Use relatable topics, provide frameworks.,4,Consideration
+117,Specific Activities,4,ActivityGroup
+118,Write based on pictures,5,ActivityItem
+119,Themed essays (e.g., ‘My favorite dish’),5,ActivityItem
+120,Open-ended short writing (e.g., observing autumn scenes),5,ActivityItem
+121,Pose Questions to Guide Word Reflection,3,TeacherActivity
+122,Why: If questions spark reflection, then students listen and analyze text.,4,Rationale
+123,Attention ..to..: Use open-ended questions, allow thinking time.,4,Consideration
+124,Specific Activities,4,ActivityGroup
+125,Choose and share favorite words/sentences (using the structure: I choose… because…),5,ActivityItem
+126,Fill out knowledge lists (K-W-L charts),5,ActivityItem
+127,Retell lesson content (by cause, process, result),5,ActivityItem
+128,Conduct Debate Activities,3,TeacherActivity
+129,Why: If debates are held, then students listen to opponents’ views.,4,Rationale
+130,Attention ..to..: Use age-appropriate topics, set clear rules.,4,Consideration
+131,Specific Activities,4,ActivityGroup
+132,Debate competition (pro and con sides),5,ActivityItem
+133,Mini judges (scoring),5,ActivityItem
+134,Help Students Improve Empathy,2,Framework
+135,Focus on Emotional Analysis Activities,3,TeacherActivity
+136,Why: If emotions are analyzed, then students empathize via text cues.,4,Rationale
+137,Attention ..to..: Start with simple emotions, connect to experiences.,4,Consideration
+138,Specific Activities,4,ActivityGroup
+139,Highlight key words/sentences,5,ActivityItem
+140,Analyze protagonist’s emotional changes,5,ActivityItem
+141,Describe similar emotions from personal life,5,ActivityItem
+142,Conduct Empathy Activities,3,TeacherActivity
+143,Why: If role-playing is used, then students empathize with characters.,4,Rationale
+144,Attention ..to..: Provide clear contexts, monitor emotions.,4,Consideration
+145,Specific Activities,4,ActivityGroup
+146,Pretend to be the author to empathize and reflect,5,ActivityItem
+147,Empathize with the author through role-playing,5,ActivityItem
+148,Encourage Evaluation Activities,3,TeacherActivity
+149,Why: If evaluations are made, then students empathize via perspectives.,4,Rationale
+150,Attention ..to..: Base on textual evidence, use respectful language.,4,Consideration
+151,Specific Activities,4,ActivityGroup
+152,Evaluate lesson characters, scenery, animals,5,ActivityItem
+153,Peer evaluation: pairs, whole class, friends…,5,ActivityItem
+154,Organize Group Collaboration Activities,3,TeacherActivity
+155,Why: If collaboration is encouraged, then students empathize with peers.,4,Rationale
+156,Attention ..to..: Balance groups, set collaboration rules.,4,Consideration
+157,Specific Activities,4,ActivityGroup
+158,Pair or group peer evaluation (exchange opinions),5,ActivityItem
+159,Group co-creation,5,ActivityItem
+160,Emotional vocabulary wall,5,ActivityItem
+161,Non-Verbal Teaching Activities,2,Framework
+162,Teacher’s Body Language for Timely Feedback,3,TeacherActivity
+163,Why: If smiles or gestures are used, then students feel noticed and listen.,4,Rationale
+164,Attention ..to..: Use sincere gestures, focus on all students.,4,Consideration
+165,Specific Activities,4,ActivityGroup
+166,Maintain a positive attitude with smiles,5,ActivityItem
+167,Eye contact and signals,5,ActivityItem
+168,Approach distracted students to remind them,5,ActivityItem
+169,Timely feedback through gestures or body movements,5,ActivityItem
+170,Conduct Drawing Activities,3,TeacherActivity
+171,Why: If drawing is assigned, then students listen for inspiration.,4,Rationale
+172,Attention ..to..: Use simple tasks, provide templates, limit to 10-15 minutes.,4,Consideration
+173,Specific Activities,4,ActivityGroup
+174,Draw story comics (key plots),5,ActivityItem
+175,Draw mind maps,5,ActivityItem
+176,Draw character relationships,5,ActivityItem
+177,Conduct Craft Activities,3,TeacherActivity
+178,Why: If crafts are used, then students listen to steps attentively.,4,Rationale
+179,Attention ..to..: Use safe materials, explain steps clearly.,4,Consideration
+180,Specific Activities,4,ActivityGroup
+181,Origami/paper cutting,5,ActivityItem
+182,Create clay artworks,5,ActivityItem
+183,Create lesson-related objects,5,ActivityItem
+184,Organize Performance Activities,3,TeacherActivity
+185,Why: If skits are performed, then students listen to prepare parts.,4,Rationale
+186,Attention ..to..: Use lesson-related content, rehearse, include shy students.,4,Consideration
+187,Specific Activities,4,ActivityGroup
+188,Express emotions through gestures and movements,5,ActivityItem
+189,Perform skits,5,ActivityItem
+190,Organize Singing Activities,3,TeacherActivity
+191,Why: If songs are sung, then students listen to lyrics attentively.,4,Rationale
+192,Attention ..to..: Use short, relevant songs, control volume.,4,Consideration
+193,Specific Activities,4,ActivityGroup
+194,Modern songs (lesson-related),5,ActivityItem
+195,Classical poetry rhythms,5,ActivityItem
+196,Online Technology,2,Framework
+197,Interactive Tools,3,TeacherActivity
+198,Why: If interactive tools are used, then students listen to instructions.,4,Rationale
+199,Attention ..to..: Test equipment, align with lesson goals.,4,Consideration
+200,Specific Activities,4,ActivityGroup
+201,Seewo Whiteboard (interactive word recognition, lesson games, AI dialogue projection),5,ActivityItem
+202,Classroom Management Master,5,ActivityItem
+203,AI-Generated Tools,3,TeacherActivity
+204,Why: If AI tools are used, then students listen to feedback.,4,Rationale
+205,Attention ..to..: Screen content for accuracy, guide usage.,4,Consideration
+206,Specific Activities,4,ActivityGroup
+207,Doubao,5,ActivityItem
+208,DeepSeek,5,ActivityItem
+209,Kimi,5,ActivityItem
+210,Jimon,5,ActivityItem
+211,Video Editing Tools,3,TeacherActivity
+212,Why: If video editing is assigned, then students listen to guidance.,4,Rationale
+213,Attention ..to..: Use simple tasks, set time limits.,4,Consideration
+214,Specific Activities,4,ActivityGroup
+215,Jianying,5,ActivityItem
+216,Resource Platforms,3,TeacherActivity
+217,Why: If platforms are used, then students listen to content.,4,Rationale
+218,Attention ..to..: Screen for relevance, control time.,4,Consideration
+219,Specific Activities,4,ActivityGroup
+220,Websites: Qicai Classroom (download lesson plans)/Bilibili (background explanations, quality courses),5,ActivityItem
+221,WeChat Official Accounts: Xiaofeng Tech (download lesson plans)/Primary School Accounts (teaching research, lectures),5,ActivityItem
+222,Apps: Xiaohongshu (excellent lesson plans, images, PPTs)/Smart Primary Education (quality competition lessons)/Xuexi Qiangguo (video resources, audiobook function),5,ActivityItem
+223,Research Tools,3,TeacherActivity
+224,Why: If research tools are used, then students listen to tasks.,4,Rationale
+225,Attention ..to..: Use specific tasks, guide tool usage.,4,Consideration
+226,Specific Activities,4,ActivityGroup
+227,Websites: Yiguan Calligraphy/Handian/Guoxue Master (research word origins and allusions),5,ActivityItem
+228,Dictionaries: Xinhua Dictionary/Chinese Dictionary (research words),5,ActivityItem
